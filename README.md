@@ -1,4 +1,4 @@
 # All-in-one-Windows-transformation-pack
-A buggy tool that can transform your installation of Windows, inconsistently. I just made this for fun lol.
+A tool to transform Windows, all in one executable.
 
 Download at your own risk from > Releases
